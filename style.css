@@ -46,3 +46,34 @@
 }
 
   /* Header Style End  */
+
+   /* Failure Styles start  */
+
+   .failure-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+      
+   }
+
+   .failure-title{
+    color: #151414;
+    font-size: 40px;
+    font-weight: bolder;
+   }
+
+   .failure-text{
+    color: #444343;
+    font-weight: 400;
+    margin: 25px 0;
+   }
+
+   .failure-sub-text{
+    color: #444343;
+    font-weight: 400;
+    padding: 10px;
+   }
+
+   .check-box{
+    color:#16D887;
+   }
