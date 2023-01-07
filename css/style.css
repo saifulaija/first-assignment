@@ -29,7 +29,7 @@
    
 }
 
-.banner-descriptio{
+.banner-description{
     color: #444343;
     font-weight: 400;
     margin: 24px 0;
@@ -110,6 +110,51 @@
         margin-top: 10px;
     }
     /* Plan Styles End  */
+
+    /* About section start  */
+    .about-container{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 1000px;
+        margin: 200px 150px;
+        background-color: #1f7c7756;
+    
+    }
+
+    .about-title{
+        font-size: 35px;
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+    .about-sub-title{
+        font-size: 19px;
+        font-size: 400;
+        margin-bottom: 5px;
+    }
+
+    .about-sub-description{
+        font-size: 15px;
+        font-weight: 400;
+        color: #444343;
+        margin-bottom: 15px;
+    }
+
+    .btn-let{
+        background-color: #F15B22;
+        color: white;
+        padding: 15px 30px;
+        border: none;
+        border-radius: 30px;
+    }
+
+    .about-design{
+        color: #F15B22;
+    }
+
+    /* End About Section  */
+
+    /* Positive section start  */
 
     .positive-section{
         
