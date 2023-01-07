@@ -5,7 +5,7 @@
 }
 
 
-/* Header Style Start */
+/* Start Header Style  */
 
   .banner-container{
     width: 100%;
@@ -46,9 +46,9 @@
     border-radius: 5px;
 }
 
-  /* Header Style End  */
+  /* End Header Style  */
 
-   /* Failure Styles start  */
+   /* Start Failure Styles   */
 
    .failure-container{
     display: flex;
@@ -79,7 +79,9 @@
     color:#16D887;
    }
 
-    /* Plan section start  */
+    /* End failure Styles  */
+
+    /* Start Plan section   */
 
 
     .plan-container{
@@ -110,15 +112,16 @@
         color: #444343;
         margin-top: 10px;
     }
-    /* Plan Styles End  */
+    /*  End Plan Styles  */
 
-    /* About section start  */
+    /* Start About section  */
+
     .about-container{
         display: flex;
         justify-content: space-around;
         align-items: center;
         width: 800px;
-       margin-left: 150px;
+       margin-left: 210px;
        margin-top: 150px;
         background-color: #1f7c7756;
         padding: 50px;
@@ -160,7 +163,7 @@
 
     /* End About Section  */
 
-    /* Positive section start  */
+    /* Start Positive section   */
 
     .positive-section{
         
@@ -194,9 +197,9 @@
         border: none;
     }
 
-     /* Positive Section Styles End  */
+     /* End Positive Section Styles  */
 
-     /* Footer Styles Start  */
+     /* Start Footer Styles  */
 
      .footer-container{
         background-color: black;
@@ -260,7 +263,7 @@
     border-radius: 10px;
  }
 
-  /* Footer section Style End */
+  /* End Footer section Style */
 
 
     
